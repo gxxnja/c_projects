@@ -5,3 +5,11 @@
 *.out
 *.exe
 *.o
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
